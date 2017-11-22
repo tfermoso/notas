@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register">Create a new account</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="password">Passoword</string>
+    <string name="repasssword">Vuelve a introducir tu Password</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="error_campos_sin_cubrir">Todos los campos son obligatorios</string>
+    <string name="error_crear_user">Error al crear el usuario</string>
+    <string name="nueva_tarea">Nueva Tarea</string>
+    <string name="titulo_tarea">Título</string>
+    <string name="descripcion_tarea">Descripción</string>
+</resources>

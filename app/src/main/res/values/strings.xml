@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Notas</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This email or password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="register">Or <u>Create a new account</u></string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="password">Passoword</string>
+    <string name="repasssword">Vuelve a introducir tu Password</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="error_pass_no_iguales">Error, las contraseñas deben ser iguales</string>
+    <string name="error_campos_sin_cubrir">Todos los campos son obligatorios</string>
+    <string name="error_crear_user">Error al crear el usuario</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="editar">editar</string>
+    <string name="salir">salir</string>
+    <string name="nueva_tarea">Nueva Tarea</string>
+    <string name="titulo_tarea">Título</string>
+    <string name="descripcion_tarea">Descripción</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_borrar">Borrar</string>
+    <string name="detail_nota">Nota detalle</string>
+    <string name="texto_detalle_tarea">Detalle tarea</string>
+    <string name="text_listado_tareas">Listado tareas</string>
+    <string name="texto_lista_tareas">Lista tareas</string>
+</resources>
